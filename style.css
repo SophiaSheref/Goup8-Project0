@@ -1,15 +1,11 @@
 h1 {
   font-family: 'Pacifico', cursive;
-  font-size: 50px;
+  font-size: 75px;
   text-align: center;
   background-color: black;
   color: white;
 
 }
-
-/*.main {
-  background-image: url("./images/hypnotize.png");
-}*/
 
 .nav {
   background-color: lightgrey;
@@ -17,6 +13,7 @@ h1 {
 
 .footer {
   background-color: lightgrey;
+  text-align: center;
 }
 h2  {
   font-size: 30px;
@@ -25,4 +22,16 @@ h2  {
 }
 p {
   text-align: center;
+}
+
+img{
+  width: 100%;
+}
+.display-3 {
+  font-size: 30px;
+}
+.jumbotron {
+  padding-top: 0;
+  padding-bottom: 5;
+  height: 30px;
 }
