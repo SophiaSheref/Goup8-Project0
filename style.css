@@ -56,7 +56,7 @@ div {
   background-color: lightgrey;
   text-align: center;
 }
-h2  {
+h2, h3 {
   font-size: 30px;
   font-family: 'Pacifico', cursive;
   text-align: center;
