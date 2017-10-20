@@ -7,6 +7,14 @@ h1 {
 
 }
 
-.body {
+/*.main {
+  background-image: url("./images/hypnotize.png");
+}*/
+
+.nav {
+  background-color: lightgrey;
+}
+
+.footer {
   background-color: lightgrey;
 }
