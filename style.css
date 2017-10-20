@@ -18,3 +18,11 @@ h1 {
 .footer {
   background-color: lightgrey;
 }
+h2  {
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
