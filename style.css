@@ -20,13 +20,18 @@ h1 {
   text-align: center;
   background-color: black;
   color: white;
-
 }
-
-.nav {
+h4 {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+/*.nav {
   background-color: lightgrey;
+}*/
+.nav-link {
+  font-family: 'Pacifico', cursive;
+  color: black;
 }
-
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
@@ -54,7 +59,8 @@ div {
     padding: 20px;
 }
 
-h2  {
+}
+h2, h3 {
   font-size: 30px;
   font-family: 'Pacifico', cursive;
   text-align: center;
@@ -90,3 +96,4 @@ img{
 	left: 0;
 	bottom: 0;
 }
+
