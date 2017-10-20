@@ -17,10 +17,13 @@ h1 {
 
 }
 
-.nav {
+/*.nav {
   background-color: lightgrey;
+}*/
+.nav-link {
+  font-family: 'Pacifico', cursive;
+  color: black;
 }
-
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
@@ -72,4 +75,3 @@ img{
   padding-bottom: 5;
   height: 30px;
 }
-
