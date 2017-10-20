@@ -8,6 +8,12 @@
 	width: 100%;
 	border-color: #F2F2F2
 }
+
+#mce-EMAIL
+{
+	width: 100%;
+}
+
 h1 {
   font-family: 'Pacifico', cursive;
   font-size: 75px;
@@ -48,10 +54,6 @@ div {
     padding: 20px;
 }
 
-.footer {
-  background-color: lightgrey;
-  text-align: center;
-}
 h2  {
   font-size: 30px;
   font-family: 'Pacifico', cursive;
@@ -73,3 +75,18 @@ img{
   height: 30px;
 }
 
+.footer 
+{
+	clear: both;
+	background-color: #666666;
+	text-align: center;
+	font-size: 10px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	padding: 20px;
+	width: 100%;
+	border-top: 5px solid #4aaaa5;
+	position: relative;
+	left: 0;
+	bottom: 0;
+}
