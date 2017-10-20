@@ -10,14 +10,14 @@
 }
 h1 {
   font-family: 'Pacifico', cursive;
-  font-size: 50px;
+  font-size: 75px;
   text-align: center;
   background-color: black;
   color: white;
 
 }
 
-.body {
+.nav {
   background-color: lightgrey;
 }
 
@@ -47,3 +47,29 @@ div {
     background-color: #f2f2f2;
     padding: 20px;
 }
+
+.footer {
+  background-color: lightgrey;
+  text-align: center;
+}
+h2  {
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+.display-3 {
+  font-size: 30px;
+}
+.jumbotron {
+  padding-top: 0;
+  padding-bottom: 5;
+  height: 30px;
+}
+
